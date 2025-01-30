@@ -1,0 +1,25 @@
+# Excluir arquivos de compilação do Java
+*.class
+*.jar
+*.war
+
+# Pastas geradas pelo NetBeans
+/nbproject/private/
+/build/
+/dist/
+
+# Configuração do IDE (NetBeans, VS Code, Eclipse, IntelliJ)
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Arquivos do Maven e Gradle (caso use)
+target/
+.mvn/
+*.log
+
+# Configuração do sistema operacional
+.DS_Store
+Thumbs.db
