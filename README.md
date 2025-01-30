@@ -72,7 +72,7 @@ O projeto utiliza os conceitos de Programação Orientada a Objetos (POO) para m
 
 Ao executar o programa, o menu inicial será exibido:
 
-BEM-VINDO AO BANCO
+`BEM-VINDO AO BANCO
 DIGITE A OPCAO DESEJADA:
 1 - ABRIR CONTA
 2 - FECHAR CONTA
@@ -80,7 +80,7 @@ DIGITE A OPCAO DESEJADA:
 4 - SACAR
 5 - CONSULTAR SALDO
 6 - PAGAR MENSALIDADE
-7 - SAIR
+7 - SAIR`
 
 ### Descrição das Opções
 
